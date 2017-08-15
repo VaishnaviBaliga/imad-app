@@ -30,7 +30,7 @@ var articles = {
     date: '10 Aug 2017',
     content: `
                 <p>
-                    this is the content of my second article.
+                    this is the content of my second article........
                 </p> `
 },
 'article-three': {
@@ -40,6 +40,7 @@ var articles = {
     content: `
                 <p>
                     this is the content of my third article.
+                    :DDDDD
                     
                 </p> `
 
