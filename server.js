@@ -25,7 +25,7 @@ var articles = {
     
 },
 'article-two': {
-     tilte: 'Article two! Vaishnavi!',
+     title: 'Article two! Vaishnavi!',
     heading: 'Article two',
     date: '15 Aug 2017',
     content: `
@@ -34,7 +34,7 @@ var articles = {
                 </p> `
 },
 'article-three': {
-     tilte: 'Article three! Vaishnavi!',
+     title: 'Article three! Vaishnavi!',
     heading: 'Article three',
     date: '15 Aug 2017',
     content: `
